@@ -1,0 +1,40 @@
+[
+    {
+        "Id": 1,
+        "Name": "College Lionel-Groulx",
+        "Logo": "Ecole",
+        "Lien": "https://clg.qc.ca/"
+    },
+    {
+        "Name": "College Montmorency",
+        "Logo": "Ecole",
+        "Lien": "https://www.cmontmorency.qc.ca/",
+        "Id": 2
+    },
+    {
+        "Name": "College Maisonneuve",
+        "Logo": "Ecole",
+        "Lien": "https://www.cmaisonneuve.qc.ca/",
+        "Id": 3
+    },
+    {
+        "Id": 4,
+        "Name": "Azure",
+        "Logo": "Web",
+        "Lien": "https://azure.microsoft.com/fr-ca"
+    }
+    ,
+    {
+        "Id": 5,
+        "Name": "Glitch",
+        "Logo": "Web",
+        "Lien": "https://glitch.com/"
+    }
+    ,
+    {
+        "Id": 6,
+        "Name": "GitHub",
+        "Logo": "Informatique",
+        "Lien": "https://github.com/"
+    }
+]
